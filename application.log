@@ -1,0 +1,372 @@
+2022-02-15 18:53:02,691 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 18:53:02,706 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 18:53:02,706 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 18:53:02,706 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 18:53:02,706 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 18:53:02,878 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 18:53:02,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 18:53:02,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 18:53:02,878 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 18:53:02,878 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 19:40:15,936  INFO [main] HomePageTest:29 - ***********************Browser launching**********************
+2022-02-15 19:40:18,114  INFO [main] HomePageTest:47 - ***********************Starting TestCases************************
+2022-02-15 19:40:18,115  INFO [main] HomePageTest:48 - ***********************AmazonTestCases************************
+2022-02-15 19:40:18,748  INFO [main] HomePageTest:50 - Validation
+2022-02-15 19:40:18,751  INFO [main] HomePageTest:53 - ***********************Ending TestCases************************
+2022-02-15 19:40:18,751  INFO [main] HomePageTest:54 - ***********************AmazonTestCases************************
+2022-02-15 19:40:18,759  INFO [main] HomePageTest:62 - ***********************Browser is closed**********************
+2022-02-15 19:42:14,420  INFO [main] HomePageTest:29 - ***********************Browser launching**********************
+2022-02-15 19:42:16,545  INFO [main] HomePageTest:47 - ***********************Starting TestCases************************
+2022-02-15 19:42:16,546  INFO [main] HomePageTest:48 - ***********************AmazonTestCases************************
+2022-02-15 19:42:17,376  INFO [main] HomePageTest:50 - Validation
+2022-02-15 19:42:17,379  INFO [main] HomePageTest:53 - ***********************Ending TestCases************************
+2022-02-15 19:42:17,379  INFO [main] HomePageTest:54 - ***********************AmazonTestCases************************
+2022-02-15 19:42:17,385  INFO [main] HomePageTest:62 - ***********************Browser is closed**********************
+2022-02-15 19:43:09,114  INFO [main] HomePageTest:29 - ***********************Browser launching**********************
+2022-02-15 19:44:35,679  INFO [main] HomePageTest:29 - ***********************Browser launching**********************
+2022-02-15 19:45:27,306  INFO [main] HomePageTest:29 - ***********************Browser launching**********************
+2022-02-15 19:55:46,696  INFO [main] HomePageTest:29 - ***********************Browser launching**********************
+2022-02-15 19:57:15,618  INFO [main] HomePageTest:29 - ***********************Browser launching**********************
+2022-02-15 20:29:00,366 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:29:00,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:29:00,370 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:29:00,371 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:29:00,371 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:29:00,535 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:29:00,536 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:29:00,536 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:29:00,537 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:29:00,537 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:29:59,848 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:29:59,850 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:29:59,852 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:29:59,853 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:29:59,853 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:30:00,001 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:30:00,001 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:30:00,002 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:30:00,002 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:30:00,002 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:32:48,390 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:32:48,392 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:32:48,394 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:32:48,395 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:32:48,395 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:32:48,557 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:32:48,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:32:48,558 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:32:48,559 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:32:48,559 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:47:14,256  INFO [main] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 20:47:14,259  INFO [main] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 20:47:14,273  INFO [main] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 20:50:30,041 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:50:30,043 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:50:30,044 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:50:30,045 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:50:30,045 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:50:30,204 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:50:30,204 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:50:30,204 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:50:30,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:50:30,205 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:53:48,164  INFO [main] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 20:53:50,622  INFO [main] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 20:53:50,622  INFO [main] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 20:53:51,250  INFO [main] HomePageTest:54 - Validation
+2022-02-15 20:53:51,252  INFO [main] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 20:53:51,252  INFO [main] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 20:53:51,259  INFO [main] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 20:53:52,143 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:53:52,143 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:53:52,143 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:53:52,143 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:53:52,143 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:53:52,330 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:53:52,330 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:53:52,330 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:53:52,330 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:53:52,330 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:58:55,223  INFO [main] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 20:59:05,926 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:59:05,926 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:59:05,926 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:59:05,926 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:59:05,926 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:59:06,097 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:59:06,097 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:59:06,097 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:59:06,097 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:59:06,097 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:59:49,745  INFO [main] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 20:59:50,906 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:59:50,922 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:59:50,922 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:59:50,922 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:59:50,922 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 20:59:51,220 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 20:59:51,236 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 20:59:51,236 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 20:59:51,236 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 20:59:51,236 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:04:06,516  INFO [TestNG-tests-2] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 21:04:06,935  INFO [TestNG-tests-1] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 21:04:08,069 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:04:08,071 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:04:08,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:04:08,075 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:04:08,075 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:04:08,367 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:04:08,367 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:04:08,367 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:04:08,368 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:04:08,368 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:05:17,097 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:05:17,099 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:05:17,101 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:05:17,102 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:05:17,102 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:05:17,263 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:05:17,263 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:05:17,263 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:05:17,264 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:05:17,264 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:10:16,750 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:10:16,752 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:10:16,754 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:10:16,755 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:10:16,755 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:10:17,010 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:10:17,011 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:10:17,012 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:10:17,013 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:10:17,013 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:10:48,164 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:10:48,167 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:10:48,171 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:10:48,172 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:10:48,173 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:10:48,471 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:10:48,473 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:10:48,474 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:10:48,474 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:10:48,475 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:12:30,498  INFO [TestNG-tests-1] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 21:12:33,064  INFO [TestNG-tests-1] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 21:12:33,065  INFO [TestNG-tests-1] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 21:12:35,583  INFO [TestNG-tests-2] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 21:13:06,517  INFO [TestNG-tests-1] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 21:13:10,308 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:13:10,309 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:13:10,311 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:13:10,312 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:13:10,313 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:13:10,470 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:13:10,470 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:13:10,471 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:13:10,471 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:13:10,471 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:13:29,270  INFO [TestNG-tests-1] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 21:13:32,343  INFO [TestNG-tests-2] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 21:13:33,993 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:13:33,995 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:13:33,997 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:13:33,999 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:13:33,999 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:13:34,218 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:13:34,219 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:13:34,220 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:13:34,220 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:13:34,220 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:14:34,755  INFO [TestNG-tests-1] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 21:14:39,152  INFO [TestNG-tests-2] HomePageTest:33 - ***********************Browser launching**********************
+2022-02-15 21:15:22,038 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:15:22,040 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:15:22,041 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:15:22,042 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:15:22,043 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:15:22,204 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:15:22,204 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:15:22,204 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:15:22,205 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:15:22,205 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:18:39,332 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:18:39,334 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:18:39,336 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:18:39,337 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:18:39,337 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:18:39,486 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:18:39,486 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:18:39,487 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:18:39,487 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:18:39,487 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:20:29,933  INFO [main] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 21:20:32,221  INFO [main] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 21:20:32,222  INFO [main] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 21:20:32,908  INFO [main] HomePageTest:54 - Validation
+2022-02-15 21:20:32,911  INFO [main] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 21:20:32,911  INFO [main] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 21:20:32,916  INFO [main] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 21:21:14,195  INFO [main] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 21:32:24,824  INFO [main] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 21:32:45,765  INFO [main] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 21:32:45,765  INFO [main] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 21:32:45,797  INFO [main] HomePageTest:54 - Validation
+2022-02-15 21:32:45,797  INFO [main] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 21:32:45,797  INFO [main] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 21:32:45,797  INFO [main] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 21:33:14,321  INFO [main] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 21:33:22,464  INFO [main] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 21:33:22,464  INFO [main] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 21:33:22,486  INFO [main] HomePageTest:54 - Validation
+2022-02-15 21:33:22,489  INFO [main] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 21:33:22,489  INFO [main] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 21:33:22,494  INFO [main] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 21:34:26,647  INFO [main] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 21:34:28,857  INFO [main] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 21:34:28,858  INFO [main] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 21:34:29,432  INFO [main] HomePageTest:54 - Validation
+2022-02-15 21:34:29,434  INFO [main] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 21:34:29,435  INFO [main] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 21:34:29,440  INFO [main] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 21:36:20,608  INFO [TestNG-tests-1] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 21:36:21,852  INFO [TestNG-tests-2] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 21:36:38,050  INFO [TestNG-tests-1] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 21:36:38,050  INFO [TestNG-tests-1] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 21:36:38,210  INFO [TestNG-tests-1] HomePageTest:54 - Validation
+2022-02-15 21:36:38,216  INFO [TestNG-tests-1] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 21:36:38,217  INFO [TestNG-tests-1] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 21:36:38,220  INFO [TestNG-tests-1] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 21:36:39,354 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:36:39,354 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:36:39,354 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:36:39,354 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:36:39,354 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:36:39,526 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:36:39,526 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:36:39,526 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:36:39,526 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:36:39,526 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:37:08,133  INFO [TestNG-tests-1] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 21:37:09,718  INFO [TestNG-tests-2] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 21:37:12,383  INFO [TestNG-tests-1] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 21:37:12,384  INFO [TestNG-tests-1] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 21:37:13,769  INFO [TestNG-tests-1] HomePageTest:54 - Validation
+2022-02-15 21:37:13,773  INFO [TestNG-tests-1] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 21:37:13,773  INFO [TestNG-tests-1] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 21:37:13,777  INFO [TestNG-tests-1] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 21:37:14,746 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:37:14,746 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:37:14,762 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:37:14,762 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:37:14,762 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 21:37:14,965 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 21:37:14,965 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 21:37:14,965 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 21:37:14,965 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 21:37:14,965 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:06:46,331  INFO [main] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 22:06:48,611  INFO [main] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 22:06:48,611  INFO [main] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 22:06:49,113  INFO [main] HomePageTest:54 - Validation
+2022-02-15 22:06:49,116  INFO [main] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 22:06:49,116  INFO [main] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 22:06:49,120  INFO [main] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 22:11:33,156  INFO [main] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 22:11:41,428  INFO [main] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 22:11:41,429  INFO [main] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 22:11:41,450  INFO [main] HomePageTest:54 - Validation
+2022-02-15 22:11:41,455  INFO [main] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 22:11:41,455  INFO [main] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 22:11:41,467  INFO [main] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 22:11:45,417 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:11:45,417 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:11:45,417 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:11:45,417 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:11:45,417 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:11:45,605 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:11:45,605 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:11:45,605 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:11:45,605 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:11:45,605 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:14:58,964  INFO [TestNG-tests-1] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 22:15:02,034  INFO [TestNG-tests-2] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 22:15:11,724  INFO [TestNG-tests-1] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 22:15:11,725  INFO [TestNG-tests-1] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 22:15:11,759  INFO [TestNG-tests-1] HomePageTest:54 - Validation
+2022-02-15 22:15:11,761  INFO [TestNG-tests-1] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 22:15:11,762  INFO [TestNG-tests-1] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 22:15:11,763  INFO [TestNG-tests-1] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 22:15:16,146 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:15:16,148 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:15:16,150 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:15:16,152 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:15:16,152 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:15:16,329 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:15:16,329 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:15:16,330 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:15:16,331 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:15:16,332 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:17:57,860  INFO [main] HomePageTest:33 - ***********************Browserlaunching**********************
+2022-02-15 22:18:00,633  INFO [main] HomePageTest:51 - ***********************Starting TestCases************************
+2022-02-15 22:18:00,634  INFO [main] HomePageTest:52 - ***********************AmazonTestCases************************
+2022-02-15 22:18:01,087  INFO [main] HomePageTest:54 - Validation
+2022-02-15 22:18:01,090  INFO [main] HomePageTest:57 - ***********************Ending TestCases************************
+2022-02-15 22:18:01,090  INFO [main] HomePageTest:58 - ***********************AmazonTestCases************************
+2022-02-15 22:18:01,098  INFO [main] HomePageTest:66 - ***********************Browser is closed**********************
+2022-02-15 22:18:01,937 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:18:01,937 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:18:01,937 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:18:01,937 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:18:01,937 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:18:02,108 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:18:02,108 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:18:02,108 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:18:02,108 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:18:02,108 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:40:51,600  INFO [TestNG-tests-1] HomePageTest:43 - ***********************Browserlaunching**********************
+2022-02-15 22:40:55,661  INFO [TestNG-tests-2] HomePageTest:43 - ***********************Browserlaunching**********************
+2022-02-15 22:40:56,025 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:40:56,026 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:40:56,027 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:40:56,028 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:40:56,029 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:40:56,243 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:40:56,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:40:56,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:40:56,244 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:40:56,245 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:42:55,007  INFO [main] HomePageTest:36 - ***********************Browserlaunching**********************
+2022-02-15 22:42:57,207  INFO [main] HomePageTest:54 - ***********************Starting TestCases************************
+2022-02-15 22:42:57,207  INFO [main] HomePageTest:55 - ***********************AmazonTestCases************************
+2022-02-15 22:42:57,734  INFO [main] HomePageTest:57 - Validation
+2022-02-15 22:42:57,737  INFO [main] HomePageTest:60 - ***********************Ending TestCases************************
+2022-02-15 22:42:57,737  INFO [main] HomePageTest:61 - ***********************AmazonTestCases************************
+2022-02-15 22:42:57,741  INFO [main] HomePageTest:69 - ***********************Browser is closed**********************
+2022-02-15 22:42:58,598 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:42:58,598 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:42:58,598 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:42:58,614 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:42:58,614 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:42:58,801 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:42:58,801 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:42:58,801 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:42:58,801 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:42:58,801 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:44:06,043  INFO [main] HomePageTest:36 - ***********************Browserlaunching**********************
+2022-02-15 22:44:15,054  INFO [main] HomePageTest:54 - ***********************Starting TestCases************************
+2022-02-15 22:44:15,055  INFO [main] HomePageTest:55 - ***********************AmazonTestCases************************
+2022-02-15 22:44:15,071  INFO [main] HomePageTest:57 - Validation
+2022-02-15 22:44:15,074  INFO [main] HomePageTest:60 - ***********************Ending TestCases************************
+2022-02-15 22:44:15,074  INFO [main] HomePageTest:61 - ***********************AmazonTestCases************************
+2022-02-15 22:44:15,078  INFO [main] HomePageTest:69 - ***********************Browser is closed**********************
+2022-02-15 22:44:18,899 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:44:18,899 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:44:18,899 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:44:18,899 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:44:18,899 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-02-15 22:44:19,056 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_CA", UTF-8, parsed); will try to load it.
+2022-02-15 22:44:19,056 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_CA.ftl"): Not found
+2022-02-15 22:44:19,056 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-02-15 22:44:19,056 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-02-15 22:44:19,071 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_CA", UTF-8, parsed) from "jar:file:/C:/Users/AVITAJ/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
